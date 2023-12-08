@@ -1,0 +1,8 @@
+grande num = 10;
+texto resultado;
+sera (num == 10){
+    resultado = verdadeiro;
+} naosera{
+    resultado = falso;
+}
+capture(resultado);
